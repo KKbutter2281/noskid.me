@@ -6,26 +6,18 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Release v0.8.13'
+  title: 'No more being a skid!'
   icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases/latest
+  to: /getting-started/introduction
   target: _blank
 actions:
   - name: Get Started
     to: /getting-started/introduction
-  - name: GitHub
-    variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
-    leftIcon: 'lucide:github'
 ---
 
 #title
-Effortless and Beautiful :br Docs Template.
+Stop being a skid!
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
-::
+Wanna stop bbeing a skid? Now's your chance!
 
-::div{class="border rounded-lg shadow-md"}
-  :iframe{src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
-::
